@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-jdk14-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/docear-metadata-lib-0.0.1.jar" sourcepath="/docear_metadata_lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="lib/JabRef-2.7.1.jar" sourcepath="/Jabref_Beta_2_7_Docear/src"/>
+	<classpathentry kind="lib" path="/docear_plugin_core/lib/JHyperlink.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
