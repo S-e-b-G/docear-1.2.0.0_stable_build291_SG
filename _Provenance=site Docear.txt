@@ -1,2 +1,5 @@
 Got from https://docear.org/downloads/docear_source.zip
 at https://docear.org/software/download/
+
+Addition from https://github.com/BeelGroup/Docear-Desktop/archive/refs/tags/docear-1.1-stable.zip
+at https://github.com/BeelGroup/Docear-Desktop/releases/tag/docear-1.1-stable

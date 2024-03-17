@@ -1,0 +1,12 @@
+<project name="Projet test" version="docear 1.0" ID="18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/_data/18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/_data/18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/_data/18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/_data/18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/D:/_Cloud/MEGA/EtudierCAD/_PartageSeb/Info-Tech/Appli/AppliSG/Python/docear-1.2.0.0_stable_build291_SG/_ProjetTestDocear//literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/_data/18E4BDE8B077JE0BEZW54QTM7XY5URBJJDC2/default_files/My%20Thesis.bib" system="true"/>
+</project>
